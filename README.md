@@ -73,36 +73,6 @@ insurance_project/
 
 ---
 
-## 🚀 How to Run
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/sagarikapolley-max/IBM-project1.git
-cd IBM-project1
-```
-
-### 2. Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Train the models
-```bash
-python train_model.py
-```
-
-### 4. Launch the Streamlit app
-```bash
-python -m streamlit run app.py --server.headless true
-```
-
-### 5. Open in browser
-```
-http://localhost:8501
-```
-
----
-
 ## 📚 Libraries Used
 
 | Library | Purpose |
